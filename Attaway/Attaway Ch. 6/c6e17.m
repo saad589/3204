@@ -1,0 +1,5 @@
+%
+%
+%
+maxl = promptmaxl();
+lengthChart(maxl);
