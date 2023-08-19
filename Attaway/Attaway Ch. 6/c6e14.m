@@ -1,2 +1,0 @@
-deg = promptAng;
-printDegRadii(deg);
