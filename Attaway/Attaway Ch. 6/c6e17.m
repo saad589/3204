@@ -1,5 +1,0 @@
-%
-%
-%
-maxl = promptmaxl();
-lengthChart(maxl);
